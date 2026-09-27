@@ -1,5 +1,5 @@
 """
-Module 4 — Lesson 1: Functions
+Module 2 — Lesson 4: Functions
 Student: Bondoc, Julien Mark
 Date: September 26, 2026
 
